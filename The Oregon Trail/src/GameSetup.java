@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+// this is some crazy stuff
 public class GameSetup
 	{
 		static Scanner userStringInput = new Scanner(System.in);
